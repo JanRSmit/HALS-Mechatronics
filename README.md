@@ -42,7 +42,7 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          Internationally available , purchasable parts where possible, like bearings, axle bars, heavy quality tripod, etc.
 
-\-          From the CNC community the grbl based firmware and supported controller and motor driver electronics for the movement controller.
+\-          From the CNC community the grbl based firmware and supported controller and motor driver electronics for the motions.
 
 \-          For the linear and rotating movement, a timing belt concept based on HTD3M.
 
