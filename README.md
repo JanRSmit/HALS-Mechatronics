@@ -18,7 +18,7 @@ To be completed.
 
 ![](file:///C:/Users/JanRSmit/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)  
 The design for me started in July 2025 with a rough sketch depicting a compartimented approach. The reason being that the DIYAUDIO thread "Klippel Near Field Scanner on a Shoestring" sort of came to a silent stand-still despite Tom Kamphuys efforts.
-![Alt text](20260319_140730.jpg)
+![Alt text](My-Starting-Sketch.png)
 
 So i contacted Tom to start a collaboration where would do the mechatronics part and he the software part. A bit lateron Dimitri joined with his post-processing software.
 
