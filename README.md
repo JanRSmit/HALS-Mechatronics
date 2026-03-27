@@ -60,6 +60,8 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          Z-axis-Mic-Assembly:
 
+\-          STOOL: The DUT platform:
+
 \-          Motion (Electronics-Motors):
 
 \-          Cabling:
