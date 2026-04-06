@@ -8,3 +8,4 @@ For the 3D model, both a Fusion360 archive file and a STEP file is present for t
 The excel holds the decisions I made, and on a separate tab the BOM.
 The images give an idea of the 3D models and the used adjustable foot.
 For the printable parts both a Fusion360 and Step files are present.
+For now concrete tiles of 30x30x4cm are used, weighing ~ 7kg. As alternative a more compact 3D model is added, and when made of concrete would also be ~ 7kg, and fits the mass-carrier. It wil look more appropriate compared to the 30x30 tiles ;-)
