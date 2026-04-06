@@ -68,7 +68,9 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          grblHAL:
 
-\-          To be completed
+\-          Operator instruction / manual
+
+\-          To be completed
 
 
 For each a separate folder is created containing:
