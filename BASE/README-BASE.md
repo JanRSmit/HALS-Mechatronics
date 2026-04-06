@@ -7,4 +7,4 @@ If a passive DUT, a loudspeaker cable is used, and if active a mains voltage cab
 For the 3D model, both a Fusion360 archive file and a STEP file is present for the 3D models of the endcap, weight-plateau and weight-bracket. The adjustable M8x24mm foot(screw) is also as simple 3D model present.
 The excel holds the decisions I made, and on a separate tab the BOM.
 The images give an idea of the 3D models and the used adjustable foot.
-
+For the printable parts both a Fusion360 and Step files are present.
