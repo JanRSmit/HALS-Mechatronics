@@ -2,9 +2,15 @@
 
 The most complex module of the HALS-Mechatronics:
  ![Alt text](HTD3M-270t-20t-1068mm-Assembly.jpg) 
+
+Fully relying on functional 3D printing
+
 text
+
 text
+
 text
+
 
 ## The aluminium mounting-bracket as core mounting place
 The aluminium mounting-bracket of the Gravity TSP5212LB tripod is the central piece that gives the stiffness of the tripod. Also w.r.t. torsion
