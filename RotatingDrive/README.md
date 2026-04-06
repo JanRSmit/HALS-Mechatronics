@@ -3,6 +3,7 @@
 The aluminium mounting-bracket of the Gravity TSP5212LB tripod is the central piece that gives the stiffness of the tripod. Also w.r.t. torsion
  ![Alt text](GTSP5212LB_4.jpg) 
 To use that for holding firmly the rotating drive i first made a 3D copy of that mounting-bracket and used that to substract it from the 3D chassis model-assembly.
+![Alt text](TripodCentralMountModel.jpg) 
 
 ## The belt transmission
 The rotating drive was the most difficult for me to determine the right motor reduction and sizing of belt etc on beforehand. Basically because i had at that time little understanding of the stepper motor behaviour.
