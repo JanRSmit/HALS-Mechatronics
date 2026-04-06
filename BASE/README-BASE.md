@@ -16,7 +16,8 @@ Testing has shown that tipping over can occur, so eventually I chose to apply co
 ![Alt text](Endcap-LevelAdjust-WeightBrackets-01.jpg)
 
 ## 3D models
-For the 3D models, both a Fusion360 archive file and STEP files are present for the 3D models of the endcap, mass-plateau-glued and weight-bracket. The adjustable M8x24mm foot(screw) is also as simple 3D model present.
+For the 3D models, both a Fusion360 archive file and STEP files are present for the 3D models of the endcap, mass-plateau-glued and weight-bracket (to be glued to the 7kg mass). 
+The adjustable M8x24mm foot(screw) is also as simple 3D model present.
 The excel holds the decisions I made, and on a separate tab the BOM.
 The images give an idea of the 3D models and the used adjustable foot.
 For the printable parts both a Fusion360 and Step files are present.
