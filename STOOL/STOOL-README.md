@@ -5,3 +5,5 @@ For the 3D model, both a Fusion360 archive file and a STEP file are present for 
 The excel holds the decisions I made, and on a separate tab the BOM.
 The images give an idea of the 3D models and the stool positioned on the central pillar.
 
+For the calibration triangle two parts need to be printed. And when printed glued while accurately aligned.
+
