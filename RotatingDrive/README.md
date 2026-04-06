@@ -25,6 +25,7 @@ The way the chassis is mounted on the tripod mount-bracket proved to be a right 
 
 ## The 3D printed 270t HTD3M pulley
 
+![Alt text](HTD3M-270t-Pulley.jpg)
 
 
 
