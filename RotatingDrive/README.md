@@ -44,6 +44,9 @@ Shows a video:
 
 ![Alt text](HTD3M-270t-Pulley.jpg)
 
-
+## Images of latest version
+Latest version of RotatingDrive before mounting on BASE:
+![Alt text](RotatingDrive-Latest-01.jpg)
+![Alt text](RotatingDrive-Latest-02.jpg)
 
 
