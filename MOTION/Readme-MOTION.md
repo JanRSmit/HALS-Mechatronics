@@ -3,6 +3,6 @@ The 'Tronics' part of the Mechatronics is comprised of motor controller and step
 
 to finish
 
-Enough speed, contemporary , proven, active support, internationally available
+Enough speed, contemporary , proven, active support, internationally available, and a proven path to stronger motors (or perhaps even less powerful motors).
 
 to finish
