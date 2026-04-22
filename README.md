@@ -83,6 +83,8 @@ For each a separate folder is created containing:
 
 \-          Assemby instruction/tutorial
 
+As an idea of the actual HALS mechatronics size:
+![Alt text](My-Starting-Sketch.png)
 \-          Test tutorial/results
 
 \-          3D print instruction
