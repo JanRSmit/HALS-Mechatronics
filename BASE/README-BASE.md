@@ -16,8 +16,8 @@ If a passive DUT, a loudspeaker cable is used, and if active a mains voltage cab
 Testing has shown that tipping over can occur, so eventually I chose to apply concrete tiles of ~7kg at the end of each leg, combined with replacing the rubber endcaps with 3D printed ones which also house level-adjustable screw.
 ![Alt text](Endcap-LevelAdjust-WeightBrackets-01.jpg)
 The tiles proved it was ok, so a more functional shape is designed and used as a mould for casting concrete:
-
-
+![Alt text](HALS-MASS-Tripod.jpg)
+The concrete is still drying, when dry and mounted a picture will be added.
 ## 3D models
 For the 3D models, both a Fusion360 archive file and STEP files are present for the 3D models of the endcap, mass-plateau-glued and weight-bracket (to be glued to the 7kg mass). 
 The adjustable M8x24mm foot(screw) is also as simple 3D model present.
