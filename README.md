@@ -90,6 +90,7 @@ As an idea of the actual HALS mechatronics size:
 \-          3D print instruction
 
 To be completed
-A preview of the actual machine now running measurements :
+
+#A preview of the actual machine now running measurements :
 ![Alt text](HALS-MECHATRONICS-2700-2300mm.jpg)
 The diameter is 2700mm, the heigt ~2300mm, the testobject shown is ~680mm high.
