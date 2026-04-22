@@ -10,6 +10,7 @@ This will hold the rotatingdrive assembly, its details covered in RotatingDrive 
 ## Cabling for the DUT: Speaker, Mains, XLR signal
 For the cabling needed for the DUT a hole is drilled in the bottom-bracket, given its design that is limited to ~ 15mm, to not weaken that part too much.
 If a passive DUT, a loudspeaker cable is used, and if active a mains voltage cable and a XLR cable is used. For the XLR cable it requires desoldering and re-soldering the XLR plug.
+![Alt text](Hole-Bottom-Tripod-Cables.jpg)
 
 ## Stability
 Testing has shown that tipping over can occur, so eventually I chose to apply concrete tiles of ~7kg at the end of each leg, combined with replacing the rubber endcaps with 3D printed ones which also house level-adjustable screw.
