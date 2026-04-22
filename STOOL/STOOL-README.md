@@ -6,4 +6,5 @@ The excel holds the decisions I made, and on a separate tab the BOM.
 The images give an idea of the 3D models and the stool positioned on the central pillar.
 
 For the calibration triangle two parts need to be printed. And when printed glued while accurately aligned.
-
+This triangle is flexible, thus very microphone friendly, as i experienced also myself ;-)
+![Alt text](Mic-friendly-Calibration-Triangle.jpg)
