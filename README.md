@@ -10,7 +10,7 @@ HALS is composed of 3 main components:
 
 ·         Postprocessing s/w  :  [lah-scanner](https://github.com/dfapinov/lah-scanner)
 
-To be completed.
+To be completed .
 
   
 
