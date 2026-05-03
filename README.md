@@ -44,7 +44,7 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          From the CNC community the grbl based firmware and supported controller and motor driver electronics for the motions.
 
-\-          For the linear and rotating movement, a timing belt concept based on HTD3M.
+\-          For the rotating movement, a timing belt HTD3M 9mm belt, and for linear movement a GT2 9mm belt.
 
 \-          A physical construction that can be taken apart in main modules for movement to different locations or temporarily storage.
 
