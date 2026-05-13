@@ -23,3 +23,6 @@ The motor and reduction gear are displayed her, but are covered in the Motors se
 For the toothed belt a GT@-9mm open end belt is used, with appropriate toothed pulleys to drive the gantry up and down.
 
 Included in this section is an Excel with my design decisions, and a BoM . Also included is a F-360 file with the whole assembly, and also one in STEP format.
+
+When complete and mounted on the Gantry of the Arm, for the vertical squaring a shim will probably be needed. So shim is one of the 3D printable parts, with the thickness that needs to be defined during squaring. Its thickness is quite sensitive, 0.1mm makes already a difference.
+
