@@ -16,7 +16,9 @@ the Spanner-Kant,
 The Gantry-Montage 
 ![Alt text](Gantry-Montage.jpg) 
 
+
 and the X-Gantry-assy
+
 ![Alt text](X-GANTRY-Assy.jpg) 
 
 The motor and reduction gear are displayed her, but are covered in the Motors section.
