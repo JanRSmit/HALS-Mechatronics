@@ -21,7 +21,7 @@ and the X-Gantry-assy
 
 ![Alt text](X-GANTRY-Assy.jpg) 
 
-The motor and reduction gear are displayed her, but are covered in the Motors section.
+The motor and reduction gear are displayed here, but are covered in the Motors section BoM.
 For the toothed belt a GT@-9mm open end belt is used, with appropriate toothed pulleys to drive the gantry up and down.
 
 Included in this section is an Excel with my design decisions, and a BoM . Also included is a F-360 file with the whole assembly, and also one in STEP format.
