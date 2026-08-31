@@ -6,7 +6,7 @@ HALS is composed of 3 main components:
 
 ·         Mechatronics design: This repository
 
-·         Measurement s/w    :  [NFS](https://github.com/TomKamphuys/NFS), its GUI [HarmonicDrive](https://github.com/TomKamphuys/HarmonicDrive)
+·         Measurement s/w    :  [NFS](https://github.com/TomKamphuys/NFS) 
 
 ·         Postprocessing s/w  :  [lah-scanner](https://github.com/dfapinov/lah-scanner)
 
@@ -90,3 +90,6 @@ To be completed
 #A preview of the actual machine now running measurements :
 ![Alt text](HALS-MECHATRONICS-2700-2300mm.jpg)
 The circumscribing diameter is 2700mm, the height ~2300mm, the testobject shown is ~680mm high.
+
+## Current Status September 2026
+Now ~ 1 year later, the robot is being used for some 9 months now and still functioning fine and accurate.
