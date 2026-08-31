@@ -1,0 +1,26 @@
+BTT SKR 3 H723 - board capabilities (work in progress: may be incorrect):
+
+Max number of axes:	5
+Max number of motors:	5
+Max number auto squared axes:	NaN
+Native USB connection:	yes
+Number of serial ports:	1
+Probe input:	yes
+Reset input as emergency stop:	yes
+Control inputs:	3
+Safety door input:	yes
+MPG mode input:	yes
+ModBus support:	yes
+Number of I2C ports:	0
+I2C EEPROM/FRAM supported:	no
+Number of digital inputs:	0
+Number of digital outputs:	0
+Number of analog inputs:	0
+Number of analog outputs:	0
+Number of analog PWM outputs:	0
+RGB LED support:	no
+SD card:	no
+Ethernet:	no
+Wiznet ethernet module:	no
+PWM spindles:	1
+HC-05 Bluetooth module:	no
