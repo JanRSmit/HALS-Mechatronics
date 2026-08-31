@@ -1,1 +1,1 @@
-
+The 'MOTION & CABLING' part of the Mechatronics is comprised of motor controller and stepper motors and is connected via USB cable to the computer running the measurement software. The motor controller is connected via shielded cabling to the motors and the end-switches. All in al a complex motion&cabling harness.
