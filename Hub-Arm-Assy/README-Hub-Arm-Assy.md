@@ -11,4 +11,6 @@ The bottom bearing block has a disk shaped part attached to it, that connects wi
 ![Alt text](Main-support-of-Hub-Arm-Assy-vertical-crossection.jpg)
 
 The mounting of arm to Hub, is combined with the mount of the Radius movement motor, again to give as much stiffness, also taking into account the 3D printed upper-bearingblock, as it also a key element in the mounting of the arm
-![Alt text](ARM-MOTOR-MOUNT.png)
+![Alt text](Mount-Arm-to-Hub.png)
+
+A slanted support with a adjustment possibility helps in providing the needed vertical shape stiffness.
