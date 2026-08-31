@@ -92,4 +92,12 @@ To be completed
 The circumscribing diameter is 2700mm, the height ~2300mm, the testobject shown is ~680mm high.
 
 ## Current Status September 2026
-Now ~ 1 year later, the robot is being used for some 9 months now and still functioning fine and accurate.
+Now ~ 1 year later, the robot is being used for some 9 months now and still functioning fine and accurate!
+
+Here a quite complete 3D model of the HALS robot. I just finished the models and the bills of material. Invluding fasteners, washers etc. Will do a check and then post the latest versions in tbe Github, with screencopies etc. Aim is end of this week.
+The 3D is in fusion360 format. A nice feature of f360 is the isolate function, to see just one object, handy for exporting for 3D printing. Which i do in step format as the slicer i use reads step for generation of the printfile and does a better job than f360 meshing.
+![Alt text](HALS-ROBOT-Sept-2026.png)
+The controller case, powersupply for motors, and amplifier and any cabling for the DUT are not shown here.
+But in reality it is like this::
+![Alt text](Gear-underneeath-HALS-robot.jpg)
+
