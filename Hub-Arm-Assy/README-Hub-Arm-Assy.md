@@ -14,3 +14,6 @@ The mounting of arm to Hub, is combined with the mount of the Radius movement mo
 ![Alt text](Mount-Arm-to-Hub.png)
 
 A slanted support with a adjustment possibility helps in providing the needed vertical shape stiffness.
+![Alt text](Slanted-Beam-assembly.png)
+
+The Hub-Arm-assy is made such that, when dismantling the robot for transport or storage, this is a main part.
