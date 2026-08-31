@@ -100,4 +100,4 @@ The 3D is in fusion360 format. A nice feature of f360 is the isolate function, t
 The controller case, powersupply for motors, and amplifier and any cabling for the DUT are not shown here.
 But in reality it is like this::
 ![Alt text](Gear-underneeath-HALS-robot.jpg)
-
+The cables at bottom of picture go to the hals computer (USB) and audio i/f (XLR).
