@@ -62,11 +62,7 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          STOOL: The DUT platform:
 
-\-          Motion (Electronics-Motors):
-
-\-          Cabling:
-
-\-          grblHAL:
+\-          Motion (Electronics-Motors)&Cabling:
 
 \-          Operator instruction / manual
 
