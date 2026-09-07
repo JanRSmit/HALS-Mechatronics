@@ -36,9 +36,7 @@ The way the chassis is mounted on the tripod mount-bracket proved to be a right 
 
 ## The 3d printed parts forming the Chassis
 
-
-Shows a video:
-![Alt text](Video-RotatingDrive-3Dprint-parts.mp4)
+There is a video: Video-RotatingDrive-3Dprint-parts.mp4  that gives a view of the assembled parts forming the rotating drive chassis.
 
 ## The 3D printed 270t HTD3M pulley
 
