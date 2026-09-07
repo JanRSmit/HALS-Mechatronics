@@ -13,7 +13,7 @@ HALS is composed of 3 main components:
 
 ·         Postprocessing s/w  :  [lah-scanner](https://github.com/dfapinov/lah-scanner)
 
-The september 2026 version of the HALS-Robot, ready to run a measurement:
+The september 2026 version of the HALS-Robot, almost ready to run a measurement:
 ![Alt text](HALS-Robot--01.jpg)
 
 
