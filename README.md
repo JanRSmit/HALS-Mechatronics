@@ -10,9 +10,9 @@ HALS is composed of 3 main components:
 
 ·         Postprocessing s/w  :  [lah-scanner](https://github.com/dfapinov/lah-scanner)
 
-To be completed .
+The current version of the HALS-Robot, ready to run a measurement:
+![Alt text](HALS-Robot--01.jpg)
 
-  
 
 ## The start
 
@@ -23,10 +23,6 @@ The design for me started in July 2025 with a rough sketch depicting a compartim
 So i contacted Tom to start a collaboration where would do the mechatronics part and he the software part. A bit lateron Dimitri joined with his post-processing software.
 
 Initially i published my approach on the thread in DIYAUDIO with an excel and pictures mostly. Recently we decided to post all on GITHUB. For me this is a learning curve ;-)
-
-To be completed
-
-  
 
 ## The breakdown into compartments
 
@@ -64,9 +60,6 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          Motion (Electronics-Motors)&Cabling:
 
-\-          Operator instruction / manual
-
-\-          To be completed
 
 
 For each a separate folder is created containing:
@@ -77,17 +70,9 @@ For each a separate folder is created containing:
 
 \-          3D step files
 
-\-          Assemby instruction/tutorial
+\-          Assemby instruction/tutorial (still to do, preferably in an interaction with those bbuilding the device)
 
 As an idea of the actual HALS mechatronics size:
-![Alt text](My-Starting-Sketch.png)
-\-          Test tutorial/results
-
-\-          3D print instruction
-
-To be completed
-
-#A preview of the actual machine now running measurements :
 ![Alt text](HALS-MECHATRONICS-2700-2300mm.jpg)
 The circumscribing diameter is 2700mm, the height ~2300mm, the testobject shown is ~680mm high.
 
@@ -101,3 +86,4 @@ The controller case, powersupply for motors, and amplifier and any cabling for t
 But in reality it is like this::
 ![Alt text](Gear-underneeath-HALS-robot.jpg)
 The cables at bottom of picture go to the hals computer (USB) and audio i/f (XLR).
+
