@@ -17,7 +17,7 @@ The Gantry-Montage
 ![Alt text](Gantry-Montage.jpg) 
 
 
-and the X-Gantry-assy
+and the X-Gantry-assy, including a shim plate, see explanation below.
 
 ![Alt text](X-GANTRY-Assy.jpg) 
 
