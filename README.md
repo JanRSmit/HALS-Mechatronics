@@ -1,6 +1,7 @@
 # HALS-Mechatronics design
 
-THE HALS (Holographic Acoustic Loudspeaker Scanner) Mechatronics design process documentation and 3D models Unlike code a physical device cannot be copied. So instead in this repository covers the design, construction, alignment and test process i followed. In this way it provides a path for others to follow and produce their own version of the HALS-Mechatronics.
+THE HALS (Holographic Acoustic Loudspeaker Scanner) Mechatronics design process documentation and 3D models. 
+Unlike code a physical device cannot be copied. So instead in this repository covers the design, construction, alignment and test process i followed. In this way it provides a path for others to follow and produce their own version of the HALS-Mechatronics.
 
 HALS is composed of 3 main components:
 
@@ -10,7 +11,7 @@ HALS is composed of 3 main components:
 
 ·         Postprocessing s/w  :  [lah-scanner](https://github.com/dfapinov/lah-scanner)
 
-The current version of the HALS-Robot, ready to run a measurement:
+The september 2026 version of the HALS-Robot, ready to run a measurement:
 ![Alt text](HALS-Robot--01.jpg)
 
 
@@ -38,13 +39,13 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          Internationally available , purchasable parts where possible, like bearings, axle bars, heavy quality tripod, etc.
 
-\-          From the CNC community the grbl based firmware and supported controller and motor driver electronics for the motions.
+\-          From the CNC community the grblHAL based firmware and supported controller and motor driver electronics for the motions.
 
 \-          For the rotating movement, a timing belt HTD3M 9mm belt, and for linear movement a GT2 9mm belt.
 
 \-          A physical construction that can be taken apart in main modules for movement to different locations or temporarily storage.
 
-\-          Where needed 3D printable parts using PETG, in this case Rapid PETG to reduce printing time.
+\-          Where needed 3D printable parts using PETG, actually close to 80 now, in this case Rapid PETG to reduce printing time.
 
 ### The breakdown:
 
@@ -58,7 +59,7 @@ To do this in a reasonable period I decided, again after some intense desktop re
 
 \-          STOOL: The DUT platform:
 
-\-          Motion (Electronics-Motors)&Cabling:
+\-          Motion: Electronics, Motors & Cabling:
 
 
 
