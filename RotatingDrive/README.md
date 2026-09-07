@@ -47,4 +47,4 @@ Latest version of RotatingDrive before mounting on BASE and mounting of CableCha
 ![Alt text](RotatingDrive-Latest-01.jpg)
 ![Alt text](RotatingDrive-Latest-02.jpg)
 
-
+Note: the pictures also show some parts that form a vernier scale used to measure the accuracy. These parts are optional.
