@@ -13,16 +13,18 @@ If a passive DUT, a loudspeaker cable is used, and if active a mains voltage cab
 ![Alt text](Hole-Bottom-Tripod-Cables.jpg)
 
 ## Stability
-Testing has shown that tipping over can occur, so eventually I chose to apply concrete tiles of ~7kg at the end of each leg, combined with replacing the rubber endcaps with 3D printed ones which also house level-adjustable screw.
+Testing has shown that tipping over can occur, so intially I chose to apply concrete tiles of ~7kg at the end of each leg, combined with replacing the rubber endcaps with 3D printed ones which also house level-adjustable screw.
 ![Alt text](Endcap-LevelAdjust-WeightBrackets-01.jpg)
 The tiles proved it was ok, so a more functional shape is designed and used as a mould for casting concrete:
 ![Alt text](HALS-MASS-Tripod.jpg)
-The concrete is still drying, when dry and mounted a picture will be added.
+
+The casted concrete weight are now in use, and functions fine.
+
 ## 3D models
-For the 3D models, both a Fusion360 archive file and STEP files are present for the 3D models of the endcap, mass-plateau-glued and weight-bracket (to be glued to the 7kg mass). 
+For the 3D models,  Fusion360 archive files -TripodLeg-Endcaps-WeightBrackets.f3z- are present for the 3D models of the endcap, mass-plateau-glued and weight-bracket (to be glued to the 7kg mass). 
 The adjustable M8x24mm foot(screw) is also as simple 3D model present.
 The excel holds the decisions I made, and on a separate tab the BOM.
 The images give an idea of the 3D models and the used adjustable foot.
-For the printable parts both a Fusion360 and Step files are present.
-For now concrete tiles of 30x30x4cm are used, weighing ~ 7kg. As alternative a more compact 3D model is added, and when made of concrete would also be ~ 7kg, and fits the mass-carrier. It wil look more appropriate compared to the 30x30 tiles ;-)
-So satisfy the different3D model needs, for the assembly a Step file, a Freecad assembly file and a F360 file is added.
+For the printable parts the Fusion360 holds the 3D models
+For the casted concrete weights a compact 3D model is added, in 2 parts, to be used for casting.
+
