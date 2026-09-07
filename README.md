@@ -1,5 +1,7 @@
 # HALS-Mechatronics design
 
+Note: see update status and end of this README.
+
 THE HALS (Holographic Acoustic Loudspeaker Scanner) Mechatronics design process documentation and 3D models. 
 Unlike code a physical device cannot be copied. So instead in this repository covers the design, construction, alignment and test process i followed. In this way it provides a path for others to follow and produce their own version of the HALS-Mechatronics.
 
@@ -87,4 +89,9 @@ The controller case, powersupply for motors, and amplifier and any cabling for t
 But in reality it is like this::
 ![Alt text](Gear-underneeath-HALS-robot.jpg)
 The cables at bottom of picture go to the hals computer (USB) and audio i/f (XLR).
+
+# UPLOAD STATUS
+20260907: 
+The 3D files, and pictures and the excel cs containing decisions and BOM are uploaded.
+! What remains to be done is the explanation of how to do the squaring of the device, and some user documentation.
 
