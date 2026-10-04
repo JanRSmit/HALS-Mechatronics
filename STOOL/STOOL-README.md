@@ -10,3 +10,6 @@ This triangle is flexible, thus very microphone friendly, as i experienced also 
 ![Alt text](Mic-friendly-Calibration-Triangle.jpg)
 
 In the F360 file is also a first attempt to make a placement caliper, especially for small boxes. This is an area where i think some form of supporting tools are needed.
+
+
+2026-10-04 DUT STool 2.0 A new design of the Stool fitting on the main beam is tested and now uploaded. It provides a myuch better tight fit. 
