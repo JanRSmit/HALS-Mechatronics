@@ -18,6 +18,13 @@ The aluminium mounting-bracket of the Gravity TSP5212LB tripod is the central pi
 To use that for holding firmly the rotating drive i first made a 3D copy of that mounting-bracket and used that to substract it from the 3D chassis model-assembly.
 ![Alt text](TripodCentralMountModel.jpg) 
 
+Here the fit is shown with a cross-section of the whole:
+(![Alt text](Main-support-of-Hub-Arm-Assy-vertical-crossection.jpg)
+The yellow part is the rotating drive chassis.
+This cross-section also shows how the total vertical weight of the HUB-ARM-Z-axis is passed on to the tripod. Essentially via the bottom hub bearing, which for that reason is a heavy version capable of carrying more axial load than the main pulley bearing or the top hub bearing.
+
+
+
 ## The belt transmission
 The rotating drive was the most difficult for me to determine the right motor reduction and sizing of belt etc on beforehand. Basically because i had at that time little understanding of the stepper motor behaviour.
 So basically i did some off the shelf standard moment of inertia calcs, looked at the force in the belt first and availabiltiy of type of belts, and above all any usefull info regarding sizing given the use case.
